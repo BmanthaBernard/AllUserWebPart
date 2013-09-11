@@ -1,0 +1,6 @@
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\bin\Debug\AllUserWebPart14.dll
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\bin\Debug\AllUserWebPart14.pdb
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\obj\Debug\ResolveAssemblyReference.cache
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\obj\Debug\AllUserWebPart14.dll
+C:\TFSWorkspace\SharePoint\AllUserWebPart14\AllUserWebPart14\obj\Debug\AllUserWebPart14.pdb

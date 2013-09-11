@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="166a5326-c697-4c44-82d6-58ffae3b73ee" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="AllUserWebPart14.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="AllUserWebPart14, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cfb30deed2372e97" Namespace="AllUserWebPart14.AllUserWebs" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="AllUserWebPart14_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

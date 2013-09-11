@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="Mantha Consulting AllUserWebPart v14 " Description="Displays all sites that a user has access to." Id="7b4e0a33-dd17-4dc6-a7fa-5b8b25fa0cf1" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="AllUserWebs\Elements.xml" />
+    <ElementFile Location="AllUserWebs\AllUserWebs.webpart" />
+  </ElementManifests>
+</Feature>
