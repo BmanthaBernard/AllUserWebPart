@@ -10,4 +10,5 @@ Key Features:
 *   The webpart allows for regular expressions matching in the path to allow for trimming of results.
 
 Performance Considerations:
-*   This builds a list by scanning all webs in a web application.  Don’t put this on your landing page as it is expensive to run.  We recommend creating a separate "My Webs" page and providing the user a link to the page.
+*   This builds a list by scanning all webs in a web application.  Donâ€™t put this on your landing page as it is expensive to run.  We recommend creating a separate "My Webs" page and providing the user a link to the page.
+# I hope this might helpful to you
